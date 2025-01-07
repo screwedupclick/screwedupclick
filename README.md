@@ -1,40 +1,36 @@
-<h1 align="center">Hi, I'm [Arnaud] <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" width="28px"> </h1>
-<h2 align="center">
-  Web Developper
-  <a href="https://[your-portfolio-link]">
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
-  </a>
-</h2>
-<div align="center">
- <img alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
+![👋 Hi, my name is Arnaud 👽](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
+![Profile views](https://komarev.com/ghpvc/?username=Screwedupclick&label=Profile%20views&color=0e75b6&style=flat)
+
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Arnaud 👽
+      </h1>
+    </summary>
+  </ul>
 </div>
 
-<div align="center">
- I was chopping samples way before the sampler
-</div>
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/ftp_smoketreez" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/arnaudscrivo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
+ **<h3 align="left">🚀 I'm a professional career changer currently transitioning into web development. I'm passionate about learning new technologies and honing my skills in HTML, CSS, Bootstrap, JavaScript, React, Angular, PHP, Python, and more. I’m committed to building responsive, user-friendly websites and applications, focusing on both front-end and back-end development. As I continue to expand my knowledge, I'm excited to contribute to open-source projects and collaborate with other developers. Let's build the future of the web together!</h3>**
 
-I'm currently undergoing a career change into web development, with a strong focus on learning key programming languages such as HTML, CSS, JavaScript, and Python. My journey includes hands-on projects and continuous improvement as I build a solid foundation in these technologies. I'm passionate about problem-solving, coding, and excited about creating innovative web solutions as I grow in this new field.
+**<h3 align="left">Rapid Fire</h3>**
 
-<details>
-  <summary><h2> <img align="center" src="https://camo.githubusercontent.com/8d25b208f86ab2642e458059717c1268fc79de216e23c658b4ecc656f5bc64be/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457861477471644464774e326f794e574a34637a6c6e6348426b616d4a7861486378596d566d63585933613349334d6a526d596a427262435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a512f6b6d557661755838544d5767304f73714b572f67697068792e676966" width="37"/> Contact Me</h2></summary>
-  <p>
-    <i>You can reach out to me via</i>
-    <a href="mailto:arnaud.scrivo@protonmail.com">
-      <img align="center" src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50"/>
-    </a>
-  </p>
-</details>
+- 💼 I'm currently working on: **my portfolio**
+- 🌱 I'm currently learning: **HTML, CSS, BootStrap, PHP, JavaScript, Python and more☄️**
+- ⚡ Fun fact: **I love cats more than humans**
 
-<details>
-  <summary>Click to see a random joke</summary>
-  <div align="center">
+ **<h3 align="left">Skills</h3>**
 
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="32" alt="Vue.js" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="32" alt="Angular" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" alt="Bootstrap" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="32" alt="Nginx" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="PHP" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="32" alt="Figma" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="32" alt="VSCode" style="margin-right: 4px"></div>
 
-  </div>
-</details>
-<div align="center" >
-<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
-</div>
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Screwedupclick&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Screwedupclick&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false" alt="GitHub top-langs Card" />
+</p>
+

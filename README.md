@@ -1,4 +1,5 @@
-![👋 Hi, my name is Arnaud 👽](https://i.pinimg.com/originals/30/43/f5/3043f535ad31db8dd1c79063577fbed3.gif)
+(https://i.pinimg.com/originals/30/43/f5/3043f535ad31db8dd1c79063577fbed3.gif)
+![👋 Hi, my name is Arnaud 👽]
 
 ![Profile views](https://komarev.com/ghpvc/?username=Screwedupclick&label=Profile%20views&color=0e75b6&style=flat)
 

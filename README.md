@@ -1,4 +1,4 @@
-![👋 Hi, my name is Arnaud 👽]([https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif](https://www.mashed.com/img/gallery/heres-how-much-popeyes-has-made-from-their-chicken-sandwich/intro-1576254941.jpg))
+![👋 Hi, my name is Arnaud 👽](https://i.pinimg.com/originals/30/43/f5/3043f535ad31db8dd1c79063577fbed3.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Screwedupclick&label=Profile%20views&color=0e75b6&style=flat)
 

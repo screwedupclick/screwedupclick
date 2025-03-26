@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/48/42/41/4842415e5f93c69717a67668fd1fb85b.gif" alt="👋 Hi, my name is Arnaud 👽">
+  <img src="https://i.pinimg.com/originals/91/1d/91/911d914aaf6194489a3f5626bed2bd3a.gif" alt="👋 Hi, my name is Arnaud 👽">
 </p>
 
 

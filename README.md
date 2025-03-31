@@ -1,17 +1,35 @@
-👋 Bienvenue sur mon GitHub ! <br>
-💻 Développeur Web en reconversion | Passionné par le numérique et la cybersécurité 🛡️
+<div align="center">
+  <h1>👋 Bienvenue sur mon GitHub !</h1>
+  
+  <p><strong>💻 Développeur Web en reconversion</strong> | Passionné par le numérique et la cybersécurité 🛡️</p>
 
-🎨 J'apprends et pratique :
-🔹 HTML, CSS, JavaScript, PHP, MySQL
-🔹 Python, MongoDB
-🔹 Bootstrap 5, Figma
+  <h2>🚀 Compétences</h2>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  </p>
+  
+  <h2>📌 Projets en cours</h2>
+  <ul align="left">
+    <li>🔧 Création de mon <strong>portfolio</strong></li>
+    <li>📡 Exploration du <strong>système ATAK</strong></li>
+    <li>🛠️ Développement de <strong>scripts pour Flipper Zero</strong></li>
+  </ul>
 
-🚀 Projets en cours :
-🔧 Création de mon portfolio personnel
-📡 Exploration du système ATAK
-🛠️ Scripts pour Flipper Zero
+  <h2>📫 Me contacter</h2>
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  </p>
+</div>
 
-💡 Curieux et passionné, j'aime explorer de nouvelles technologies et développer mes compétences jour après jour !
 
 
 # 💻 Tech Stack:

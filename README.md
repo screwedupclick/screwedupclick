@@ -1,9 +1,9 @@
-<div align="center">
-  <h1>👋 Bienvenue sur mon GitHub !</h1>
+<div align="center" style="font-family: Arial, sans-serif; color: #333; background: linear-gradient(135deg, #1e1e2f, #3a3a5e); padding: 20px; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);">
+  <h1 style="color: #f8f8f2; font-size: 2.5em;">👋 Bienvenue sur mon GitHub !</h1>
   
-  <p><strong>💻 Développeur Web en reconversion</strong> | Passionné par le numérique et la cybersécurité 🛡️</p>
+  <p style="color: #ddd; font-size: 1.2em;"><strong>💻 Développeur Web en reconversion</strong> | Passionné par le numérique et la cybersécurité 🛡️</p>
 
-  <h2>🚀 Compétences</h2>
+  <h2 style="color: #ff79c6;">🚀 Compétences</h2>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -16,14 +16,14 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   </p>
   
-  <h2>📌 Projets en cours</h2>
-  <ul align="left">
+  <h2 style="color: #50fa7b;">📌 Projets en cours</h2>
+  <ul align="left" style="color: #f8f8f2; font-size: 1.1em;">
     <li>🔧 Création de mon <strong>portfolio</strong></li>
     <li>📡 Exploration du <strong>système ATAK</strong></li>
     <li>🛠️ Développement de <strong>scripts pour Flipper Zero</strong></li>
   </ul>
 
-  <h2>📫 Me contacter</h2>
+  <h2 style="color: #8be9fd;">📫 Me contacter</h2>
   <p>
     <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
     <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>

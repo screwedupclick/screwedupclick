@@ -1,4 +1,8 @@
 <div align="center" style="font-family: Arial, sans-serif; color: #333; background: linear-gradient(135deg, #1e1e2f, #3a3a5e); padding: 20px; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);">
+  
+  <!-- Ajoute ton GIF ici -->
+  <img src="https://i.pinimg.com/originals/13/64/f3/1364f301d7181e2acc516f702c4ce274.gif" alt="GIF animé" style="max-width: 100%; border-radius: 10px; margin-bottom: 20px;" />
+  
   <h1 style="color: #f8f8f2; font-size: 2.5em;">👋 Bienvenue sur mon GitHub !</h1>
   
   <p style="color: #ddd; font-size: 1.2em;"><strong>💻 Développeur Web en reconversion</strong> | Passionné par le numérique et la cybersécurité 🛡️</p>
@@ -29,6 +33,7 @@
     <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   </p>
 </div>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=screwedupclick&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>

@@ -1,7 +1,7 @@
 <div align="center" style="font-family: Arial, sans-serif; color: #333; background: linear-gradient(135deg, #1e1e2f, #3a3a5e); padding: 20px; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);">
   
   <!-- Ajoute ton GIF ici -->
-  <img src="https://i.pinimg.com/originals/43/95/a6/4395a69ec32a66e0cc71b2bc9d493cd3.gif" style="max-width: 100%; border-radius: 10px; margin-bottom: 20px;" />
+  <img src="[https://i.pinimg.com/originals/43/95/a6/4395a69ec32a66e0cc71b2bc9d493cd3.gif](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)" style="max-width: 100%; border-radius: 10px; margin-bottom: 20px;" />
   
   <h1 style="color: #f8f8f2; font-size: 2.5em;">👋 Bienvenue sur mon GitHub !</h1>
   

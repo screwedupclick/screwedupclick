@@ -29,7 +29,7 @@
     <li>🔧 Création de mon <strong>portfolio</strong></li>
     <li>📡 Exploration du <strong>système ATAK</strong></li>
     <li>🛠️ Développement de <strong>scripts pour Flipper Zero</strong></li>
-    <li>📘 Apprentissage de <strong>Django</strong>, <strong>FastAPI</strong> et <strong>Flask</strong></li>
+    <li>📘 Apprentissage de <strong>Django</strong>, <strong>FastAPI</strong>, <strong>Flask</strong> et <strong>Nuxt JS</strong></li>
   </ul>
 
   <h2 style="color: #8be9fd;">📫 Me contacter</h2>

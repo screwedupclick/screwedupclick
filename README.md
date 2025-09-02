@@ -6,7 +6,6 @@
   <h1 style="color: #f8f8f2; font-size: 2.5em;">👋 Bienvenue sur mon GitHub !</h1>
   
   <p style="color: #ddd; font-size: 1.2em;"><strong>💻 Développeur Web en reconversion</strong> | Passionné par le numérique et la cybersécurité 🛡️</p>
-
   <h2 style="color: #ff79c6;">🚀 Compétences</h2>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,7 +22,6 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
-
   <h2 style="color: #50fa7b;">📌 Projets en cours</h2>
   <ul align="left" style="color: #f8f8f2; font-size: 1.1em;">
     <li>🔧 Création de mon <strong>portfolio avec <strong>React</strong></li>
@@ -31,26 +29,21 @@
     <li>🛠️ Développement de <strong>scripts pour Flipper Zero</strong></li>
     <li>📘 Apprentissage de <strong>Django</strong>, <strong>FastAPI</strong>, <strong>Flask</strong> et <strong>Nuxt JS</strong></li>
   </ul>
-
   <h2 style="color: #8be9fd;">📫 Me contacter</h2>
   <p>
     <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/arnaudscrivo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:arnaudscrivo.dev@proton.me"><img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
   </p>
 </div>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=screwedupclick&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=screwedupclick&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=screwedupclick&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=screwedupclick&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=screwedupclick&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

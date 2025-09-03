@@ -4,10 +4,10 @@
 
 # 👋 Bienvenue sur mon GitHub !
 
-💻 **🔥 Professional bug creator, occasional bug fixer  
+💻 Professional bug creator, occasional bug fixer  
 👾 Debugging is just hiding my own crimes  
 📜 Code comments: 0, sarcasm: 100  
-💡 Productivity measured in commits at 2AM **
+💡 Productivity measured in commits at 2AM 
 
 ---
 

@@ -1,17 +1,23 @@
 <div align="center">
-
 ![GIF](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
 
-# 🤖 GitHub Copilot writes it, I just pretend I did
+# 💀 CHAOS.EXE HAS STOPPED RESPONDING 💀
+### ⚡ Welcome to my digital hellscape ⚡
 
-💻 Professional bug creator, occasional bug fixer  
-👾 Debugging is just hiding my own crimes  
-📜 Code comments: 0, sarcasm: 100  
-💡 Productivity measured in commits at 2AM 
+```
+ERROR 404: SANITY NOT FOUND
+LOADING CHAOS... ████████████ 100%
+```
+
+🤖 GitHub Copilot writes it, I just pretend to understand  
+💻 Professional bug creator, occasional accident fixer  
+👾 Debugging = hiding my own crimes  
+📜 Code comments: 0, existential dread: ∞  
+💡 Productivity measured in 2AM panic commits  
 
 ---
 
-## 🚀 Compétences
+## ⚡ ARSENAL OF DIGITAL CHAOS ⚡
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,41 +35,58 @@
 
 ---
 
-## 📌 Projets en cours
-
-- 🔧 Création de mon **portfolio avec React**
-- 📡 Exploration du **système ATAK**
-- 🛠️ Développement de **scripts pour Flipper Zero**
-- 📘 Apprentissage de **Django**, **FastAPI**, **Flask** et **Nuxt JS**
+## 🌪️ CURRENT DISASTERS 🌪️
+- 🔧 React Portfolio *(50% done, 200% overthinking)*
+- 📡 ATAK System exploration *(because pain)*
+- 🛠️ Flipper Zero scripts *(ethical chaos)*
+- 📘 Django/FastAPI/Flask/Nuxt *(framework addiction)*
 
 ---
 
-## 📫 Me contacter
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaudscrivo/)
-[![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:arnaudscrivo.dev@proton.me)
+## 🔗 CONTACT POINTS 🔗
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#) *[UNDER CONSTRUCTION FOREVER]*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaudscrivo/) *[PROFESSIONAL LIES]*
+[![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:arnaudscrivo.dev@proton.me) *[MAYBE RESPONDS]*
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 STATISTICS OF DESTRUCTION
 
-![](https://github-readme-stats.vercel.app/api?username=screwedupclick&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=screwedupclick&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=screwedupclick&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=screwedupclick&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![](https://nirzak-streak-stats.vercel.app/?user=screwedupclick&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=screwedupclick&theme=radical&hide_border=true&layout=compact)
 
 ---
 
-### ✍️ Random Dev Quote
+### 🎲 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=screwedupclick&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 
-[![](https://visitcount.itsvg.in/api?id=screwedupclick&icon=0&color=0)](https://visitcount.itsvg.in)
+```javascript
+// Current state
+const me = {
+    status: "barely_alive",
+    coffee: Math.random() * 100,
+    bugs_today: Infinity,
+    sanity: null
+};
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+while(coding) {
+    try { 
+        create_chaos(); 
+    } catch(life) { 
+        console.log("why"); 
+    }
+}
+```
+
+**⚠️ WARNING ⚠️**  
+Code guaranteed to work 0% of the time, every time
+
+[![](https://visitcount.itsvg.in/api?id=screwedupclick&icon=5&color=12)](https://visitcount.itsvg.in)
+
+<!-- Created in pure mental breakdown -->
+<!-- If this makes sense, you need help too -->

@@ -10,7 +10,7 @@ ERROR 404: SANITY NOT FOUND
 LOADING CHAOS... ████████████ 100%
 ```
 
-🤖 GitHub Copilot writes it, I just pretend to understand  
+🤖 GitHub Copilot writes it, I just pretend I did  
 💻 Professional bug creator, occasional accident fixer  
 👾 Debugging = hiding my own crimes  
 📜 Code comments: 0, existential dread: ∞  

@@ -45,8 +45,8 @@ LOADING CHAOS... ████████████ 100%
 ---
 
 ## 🔗 CONTACT POINTS 🔗
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#) *[UNDER CONSTRUCTION FOREVER]*
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaudscrivo/) *[PROFESSIONAL LIES]*
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#) *[UNDER CONSTRUCTION FOREVER]*  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaudscrivo/) *[PROFESSIONAL LIES]*  
 [![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:arnaudscrivo.dev@proton.me) *[MAYBE RESPONDS]*
 
 </div>

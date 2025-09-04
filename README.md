@@ -10,7 +10,9 @@ ERROR 404: SANITY NOT FOUND
 LOADING CHAOS... ████████████ 100%
 </pre>
 
-<pre style="background-color: #111; color: #0f0; padding: 1rem; border-radius: 5px; overflow-x: auto;">
+</div>
+
+```javascript
 // Current state
 const me = {
     status: "barely_alive",
@@ -26,7 +28,6 @@ while(coding) {
         console.log("why"); 
     }
 }
-</pre>
 
 ---
 

@@ -10,12 +10,12 @@ ERROR 404: SANITY NOT FOUND
 LOADING CHAOS... ████████████ 100%
 ```
 
-🤖 GitHub Copilot writes it, I just pretend I did
-💻 Professional bug creator, occasional accident fixer
-👾 Debugging = hiding my own crimes
-📜 Code comments: 0, existential dread: ∞
-💡 Productivity measured in 2AM panic commits
-🧠 Learning MERN stack: MongoDB crashes, Express confusion, React tears, Next.js nightmares
+- 🤖 GitHub Copilot writes it, I just pretend I did
+- 💻 Professional bug creator, occasional accident fixer
+- 👾 Debugging = hiding my own crimes
+- 📜 Code comments: 0, existential dread: ∞
+- 💡 Productivity measured in 2AM panic commits
+- 🧠 Learning MERN stack: MongoDB crashes, Express confusion, React tears, Next.js nightmares
 
 ---
 

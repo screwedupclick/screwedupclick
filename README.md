@@ -36,7 +36,7 @@ while(coding) {
 
 <!-- À partir d'ici, on passe en alignement gauche -->
 
-<div align="center"; font-weight: bold;">
+<div align="center"; font-weight: bold; font-size: 18px;">
   ⚙️ Arsenal of Digital Chaos ⚙️
 </div>
 

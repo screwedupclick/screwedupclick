@@ -36,7 +36,7 @@ while(coding) {
 
 <!-- À partir d'ici, on passe en alignement gauche -->
 
-## ⚙️ Arsenal of Digital Chaos
+## ⚙️ Arsenal of Digital Chaos ⚙️
 
 <div style="background-color: #111; color: #0f0; padding: 1rem; border-radius: 5px; font-family: monospace;">
 
@@ -60,7 +60,7 @@ while(coding) {
 </div>
 
 
-## 🌪️ Current Disasters
+## 🌪️ Current Disasters 🌪️
 
 <pre style="background-color: #111; color: #0f0; padding: 1rem; border-radius: 5px;">
 - React Portfolio (50% done, 200% overthinking)
@@ -71,7 +71,7 @@ while(coding) {
 
 ---
 
-## 🔗 Contact Points
+## 🔗 Contact Points 🔗
 
 - [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#) **UNDER CONSTRUCTION FOREVER**  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaudscrivo/) **PROFESSIONAL LIES**  
@@ -79,7 +79,7 @@ while(coding) {
 
 ---
 
-## 📊 Statistics of Destruction
+## 📊 Statistics of Destruction 📊
 
 <div align="center">
 
@@ -91,7 +91,7 @@ while(coding) {
 
 ---
 
-### 🎲 Random Dev Quote
+### 🎲 Random Dev Quote 🎲
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

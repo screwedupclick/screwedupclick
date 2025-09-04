@@ -36,8 +36,8 @@ while(coding) {
 
 <!-- À partir d'ici, on passe en alignement gauche -->
 
-<div style="text-align: center; font-weight: bold; font-size: 18px;">
-  ⚙️ Arsenal of Digital Chaos ⚙️
+<div align="center">
+  <h2 font-size: 2rem>⚙️ Arsenal of Digital Chaos ⚙️</h2>
 </div>
 
 
@@ -63,8 +63,8 @@ while(coding) {
 </div>
 
 
-<div align="center"; font-weight: bold;">
-    🌪️ Current Disasters 🌪️ 
+<div align="center">
+    <h2 font-size: 2rem>🌪️ Current Disasters 🌪️ </h2>
 </div>
 
 <pre style="background-color: #111; color: #0f0; padding: 1rem; border-radius: 5px;">
@@ -76,8 +76,8 @@ while(coding) {
 
 ---
 
-<div align="center"; font-weight: bold;">
-    🔗 Contact Points 🔗 
+<div align="center">
+   <h2 font-size: 2rem>🔗 Contact Points 🔗 </h2>
 </div>
 
 - [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#) **UNDER CONSTRUCTION FOREVER**  
@@ -87,7 +87,7 @@ while(coding) {
 ---
 
 <div align="center"; font-weight: bold;">
-    📊 Statistics of Destruction 📊 
+   <h2 font-size: 2rem>📊 Statistics of Destruction 📊 </h2>
 </div>
 
 <div align="center">
@@ -100,19 +100,6 @@ while(coding) {
 
 ---
 
-<div align="center"; font-weight: bold;">
-    🎲 Random Dev Quote 🎲 
-</div>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=screwedupclick&icon=5&color=12)](https://visitcount.itsvg.in)
-
-</div>
 
 <!-- Created in pure mental breakdown -->
 <!-- If this makes sense, you need help too -->

@@ -1,5 +1,3 @@
-<div align="center">
-
 ![GIF](https://i.pinimg.com/originals/7e/c2/3f/7ec23f762bf8f961650400cf66fe9f30.gif)
 
 # 💀 CHAOS.EXE HAS STOPPED RESPONDING 💀

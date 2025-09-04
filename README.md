@@ -15,7 +15,7 @@ LOADING CHAOS... ████████████ 100%
 - 👾 Debugging = hiding my own crimes
 - 📜 Code comments: 0, existential dread: ∞
 - 💡 Productivity measured in 2AM panic commits
-- 🧠 Learning MERN stack: MongoDB crashes, Express confusion, React tears, Next.js nightmares
+- 🧠 Learning MERN stack: MongoDB crashes, Express confusion, React tears, Node.js nightmares
 
 ---
 

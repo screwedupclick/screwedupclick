@@ -36,7 +36,7 @@ while(coding) {
 
 <!-- À partir d'ici, on passe en alignement gauche -->
 
-<div style="text-align: center; font-weight: bold;">
+<div align="center"; font-weight: bold;">
   ⚙️ Arsenal of Digital Chaos ⚙️
 </div>
 
@@ -62,7 +62,7 @@ while(coding) {
 </div>
 
 
-<div style="text-align: center; font-weight: bold;">
+<div align="center"; font-weight: bold;">
     🌪️ Current Disasters 🌪️ 
 </div>
 
@@ -75,7 +75,7 @@ while(coding) {
 
 ---
 
-<div style="text-align: center; font-weight: bold;">
+<div align="center"; font-weight: bold;">
     🔗 Contact Points 🔗 
 </div>
 
@@ -85,7 +85,7 @@ while(coding) {
 
 ---
 
-<div style="text-align: center; font-weight: bold;">
+<div align="center"; font-weight: bold;">
     📊 Statistics of Destruction 📊 
 </div>
 
@@ -99,7 +99,7 @@ while(coding) {
 
 ---
 
-<div style="text-align: center; font-weight: bold;">
+<div align="center"; font-weight: bold;">
     🎲 Random Dev Quote 🎲 
 </div>
 

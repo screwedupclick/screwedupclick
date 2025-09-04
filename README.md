@@ -1,16 +1,14 @@
 <div align="center">
-![GIF](https://i.pinimg.com/originals/7e/c2/3f/7ec23f762bf8f961650400cf66fe9f30.gif)
 
+![GIF](https://i.pinimg.com/originals/7e/c2/3f/7ec23f762bf8f961650400cf66fe9f30.gif)
 
 # 💀 CHAOS.EXE HAS STOPPED RESPONDING 💀
 ### ⚡ Welcome to my digital hellscape ⚡
 
-<div align="center">
 ```
 ERROR 404: SANITY NOT FOUND
 LOADING CHAOS... ████████████ 100%
 ```
-</div>
 
 ```javascript
 // Current state

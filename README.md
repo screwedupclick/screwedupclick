@@ -10,6 +10,24 @@ ERROR 404: SANITY NOT FOUND
 LOADING CHAOS... ████████████ 100%
 ```
 
+```javascript
+// Current state
+const me = {
+    status: "barely_alive",
+    coffee: Math.random() * 100,
+    bugs_today: Infinity,
+    sanity: null
+};
+
+while(coding) {
+    try { 
+        create_chaos(); 
+    } catch(life) { 
+        console.log("why"); 
+    }
+}
+```
+
 - 🤖 GitHub Copilot writes it, I just pretend I did
 - 💻 Professional bug creator, occasional accident fixer
 - 👾 Debugging = hiding my own crimes
@@ -66,27 +84,6 @@ LOADING CHAOS... ████████████ 100%
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-```javascript
-// Current state
-const me = {
-    status: "barely_alive",
-    coffee: Math.random() * 100,
-    bugs_today: Infinity,
-    sanity: null
-};
-
-while(coding) {
-    try { 
-        create_chaos(); 
-    } catch(life) { 
-        console.log("why"); 
-    }
-}
-```
-
-**⚠️ WARNING ⚠️**  
-Code guaranteed to work 0% of the time, every time
 
 [![](https://visitcount.itsvg.in/api?id=screwedupclick&icon=5&color=12)](https://visitcount.itsvg.in)
 

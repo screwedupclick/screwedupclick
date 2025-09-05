@@ -67,12 +67,18 @@ while(coding) {
     <h2 font-size: 2rem>🌪️ Current Disasters 🌪️ </h2>
 </div>
 
-<pre style="background-color: #111; color: #0f0; padding: 1rem; border-radius: 5px;">
-- React Portfolio (50% done, 200% overthinking)
-- ATAK System exploration (because pain)
-- Flipper Zero scripts (ethical chaos)
-- Django/FastAPI/Flask/Nuxt (framework addiction)
-</pre>
+```javascript
+const projects = {
+    react_portfolio: "50% done, 200% overthinking",
+    atak_system: "because pain",
+    flipper_zero: "ethical chaos",
+    frameworks: ["Django", "FastAPI", "Flask", "Nuxt (framework addiction)"]
+};
+
+for (const [name, desc] of Object.entries(projects)) {
+    console.log(`- ${name}: ${desc}`);
+}
+```
 
 ---
 

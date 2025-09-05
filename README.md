@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/7e/c2/3f/7ec23f762bf8f961650400cf66fe9f30.gif" alt="GIF" style="max-width: 100%; height: auto;" />
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="GIF" style="max-width: 100%; height: auto;" />
 
 # 💀 CHAOS.EXE HAS STOPPED RESPONDING 💀  
 ### ⚡ Welcome to my digital hellscape ⚡  

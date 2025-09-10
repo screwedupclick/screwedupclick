@@ -13,41 +13,40 @@ LOADING CHAOS... ████████████ 100%
 </div>
 
 ```javascript
-// Current state — because sanity is *so* last season
+// Current state — somewhere between death and worse
 const me = {
-    status: "barely_alive", // Living the dream, one null pointer at a time
-    coffee: Math.random() * 100, // Because hydration is for the weak
-    bugs_today: Infinity, // An impressive, ever-growing collection
-    sanity: null, // Not found. Try turning it off and on again.
-    brain: undefined, // Same as yesterday. And the day before.
-    motivation: () => Math.random() > 0.9 ? "present" : "lol nope", // RNGesus, take the wheel
+    status: "barely_alive", // Kept alive by caffeine and bad decisions
+    coffee: Math.random() * 100, // The only reason this organism functions
+    bugs_today: Infinity, // Like Pokémon, but they evolve into breakdowns
+    sanity: null, // Gone. Lost in a merge conflict.
+    brain: undefined, // 404: Cognitive function not found
+    motivation: () => Math.random() > 0.9 ? "present" : "missing", // 10% chance of pretending to care
 };
 
-// The eternal loop of despair™
+// The cursed loop, also known as "productivity"
 while (coding) {
     try {
-        create_chaos(); // Step 1: Pretend you know what you're doing
+        create_chaos(); // Aka "doing my job"
     } catch (life) {
-        console.log("why"); // Deep philosophical debugging
-        throw new Error("what the fuck is that?"); // The only comment that ever made sense
+        console.log("why"); // Scream into the void, it echoes
+        throw new Error("what the fuck is that?"); // The official documentation of my existence
     } finally {
-        question_existence(); // Self-care, but make it metaphysical
+        question_existence(); // Mandatory mental health break (not effective)
     }
 }
 
-// Just your average daily fire drill
+// This function embodies my career
 function create_chaos() {
     if (Math.random() < 0.5) {
-        throw new Error("Unexpected life event"); // Spoiler: they're *all* unexpected
+        throw new Error("Unexpected life event"); // Divorce? Bankruptcy? JS runtime error? Who knows!
     }
-    console.log("Code compiles, but... should it?"); // Just because you *can*, doesn’t mean you *should*
+    console.log("Code compiles, but... should it?"); // Ethics not included
 }
 
-// Existential dread included at no extra cost
+// Existential crisis simulator
 function question_existence() {
-    console.log("Is this even real?"); // Pro tip: it isn’t
+    console.log("Is this even real?"); // Spoiler: it never was
 }
-
 ```
 
 ---

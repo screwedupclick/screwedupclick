@@ -18,16 +18,33 @@ const me = {
     status: "barely_alive",
     coffee: Math.random() * 100,
     bugs_today: Infinity,
-    sanity: null
+    sanity: null,
+    brain: undefined,
+    motivation: () => Math.random() > 0.9 ? "present" : "missing",
 };
 
-while(coding) {
-    try { 
-        create_chaos(); 
-    } catch(life) { 
-        console.log("why"); 
+while (coding) {
+    try {
+        create_chaos();
+    } catch (life) {
+        console.log("why");
+        throw new Error("what the fuck is that?");
+    } finally {
+        question_existence();
     }
 }
+
+function create_chaos() {
+    if (Math.random() < 0.5) {
+        throw new Error("Unexpected life event");
+    }
+    console.log("Code compiles, but... should it?");
+}
+
+function question_existence() {
+    console.log("Is this even real?");
+}
+
 ```
 
 ---

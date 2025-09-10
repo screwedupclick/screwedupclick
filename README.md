@@ -13,36 +13,39 @@ LOADING CHAOS... ████████████ 100%
 </div>
 
 ```javascript
-// Current state
+// Current state — because sanity is *so* last season
 const me = {
-    status: "barely_alive",
-    coffee: Math.random() * 100,
-    bugs_today: Infinity,
-    sanity: null,
-    brain: undefined,
-    motivation: () => Math.random() > 0.9 ? "present" : "missing",
+    status: "barely_alive", // Living the dream, one null pointer at a time
+    coffee: Math.random() * 100, // Because hydration is for the weak
+    bugs_today: Infinity, // An impressive, ever-growing collection
+    sanity: null, // Not found. Try turning it off and on again.
+    brain: undefined, // Same as yesterday. And the day before.
+    motivation: () => Math.random() > 0.9 ? "present" : "lol nope", // RNGesus, take the wheel
 };
 
+// The eternal loop of despair™
 while (coding) {
     try {
-        create_chaos();
+        create_chaos(); // Step 1: Pretend you know what you're doing
     } catch (life) {
-        console.log("why");
-        throw new Error("what the fuck is that?");
+        console.log("why"); // Deep philosophical debugging
+        throw new Error("what the fuck is that?"); // The only comment that ever made sense
     } finally {
-        question_existence();
+        question_existence(); // Self-care, but make it metaphysical
     }
 }
 
+// Just your average daily fire drill
 function create_chaos() {
     if (Math.random() < 0.5) {
-        throw new Error("Unexpected life event");
+        throw new Error("Unexpected life event"); // Spoiler: they're *all* unexpected
     }
-    console.log("Code compiles, but... should it?");
+    console.log("Code compiles, but... should it?"); // Just because you *can*, doesn’t mean you *should*
 }
 
+// Existential dread included at no extra cost
 function question_existence() {
-    console.log("Is this even real?");
+    console.log("Is this even real?"); // Pro tip: it isn’t
 }
 
 ```

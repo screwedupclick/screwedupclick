@@ -7,44 +7,48 @@
 
 ```
 ERROR 404: SANITY NOT FOUND
-LOADING CHAOS... ████████████ 100%
+LOADING EXPLOITS... ████████████ 100%
 ```
 
 🤖 GitHub Copilot writes it, I just pretend to understand  
-💻 Professional bug creator, occasional accident fixer  
-👾 Debugging = hiding my own crimes  
+💻 Professional bug creator, occasional exploit finder  
+👾 Pentesting = getting paid to do the crimes I used to do for free  
 📜 Code comments: 0, existential dread: ∞  
-💡 Productivity measured in 2AM panic commits  
+💡 Productivity measured in 2AM TryHackMe rabbit holes
 
 ---
 
 ## ⚡ ARSENAL OF DIGITAL CHAOS ⚡
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
 ## 🌪️ CURRENT DISASTERS 🌪️
-- 🔧 React Portfolio *(50% done, 200% overthinking)*
-- 📡 ATAK System exploration *(because pain)*
-- 🛠️ Flipper Zero scripts *(ethical chaos)*
-- 📘 Django/FastAPI/Flask/Nuxt *(framework addiction)*
+
+- 🎯 HTB Academy grind *(Linux fundamentals & subnetting, because pain is a valid teacher)*
+- 🏚️ **L'Audit Fantôme** — solo narrative CTF starring my own fictional shell company, NOCIDE CORP *(Flipper Zero + digital forensics, because a normal CTF wasn't hard enough)*
+- 🧮 subnetCalc *(open-source Python subnet calculator — because doing /24 math by hand is a war crime)*
+- 🔥 pfSense on a dying laptop *(turning e-waste into a firewall, a.k.a. weaponizing my regret)*
+- 📡 ATAK system exploration *(because pain, still)*
+- 🕸️ Neon "Miami Vice" portfolio *(HTML/CSS/JS, 50% built, 200% color palette anxiety)*
 
 ---
 
 ## 🔗 CONTACT POINTS 🔗
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#) *[UNDER CONSTRUCTION FOREVER]*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaudscrivo/) *[PROFESSIONAL LIES]*
 [![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:arnaudscrivo.dev@proton.me) *[MAYBE RESPONDS]*
@@ -62,6 +66,7 @@ LOADING CHAOS... ████████████ 100%
 ---
 
 ### 🎲 Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
@@ -71,21 +76,22 @@ LOADING CHAOS... ████████████ 100%
 const me = {
     status: "barely_alive",
     coffee: Math.random() * 100,
-    bugs_today: Infinity,
+    ctf_flags_captured: -1,
+    exploits_that_worked: 0,
     sanity: null
 };
 
-while(coding) {
-    try { 
-        create_chaos(); 
-    } catch(life) { 
-        console.log("why"); 
+while(hacking) {
+    try {
+        capture_the_flag();
+    } catch(life) {
+        console.log("it's not a bug, it's a zero-day");
     }
 }
 ```
 
 **⚠️ WARNING ⚠️**  
-Code guaranteed to work 0% of the time, every time
+Exploits guaranteed to work 0% of the time in prod, 100% of the time in my head
 
 [![](https://visitcount.itsvg.in/api?id=screwedupclick&icon=5&color=12)](https://visitcount.itsvg.in)
 

@@ -1,28 +1,27 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=700&lines=%24+whoami;DJ_Nocide+%E2%80%94+web+dev+%E2%86%92+cybersecurity;%24+sudo+apt+install+skills;%5B%2B%5D+Learning+in+public.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=700&lines=%24+whoami;SCREWEDUP+%E2%80%94+web+dev+%E2%86%92+cybersecurity;%24+sudo+apt+install+skills;%5B%2B%5D+Learning+in+public.)](https://git.io/typing-svg)
 
 </div>
 
 ```text
- ____      _   _  ___   ____ ___ ____  _____
-|  _ \    | \ | |/ _ \ / ___|_ _|  _ \| ____|
-| | | |   |  \| | | | | |    | || | | |  _|
-| |_| |   | |\  | |_| | |___ | || |_| | |___
-|____/____|_| \_|\___/ \____|___|____/|_____|
-     |_____|
+ ____   ____ ____  _______        _______ ____  _   _ ____
+/ ___| / ___|  _ \| ____\ \      / / ____|  _ \| | | |  _ \
+\___ \| |   | |_) |  _|  \ \ /\ / /|  _| | | | | | | | |_) |
+ ___) | |___|  _ <| |___  \ V  V / | |___| |_| | |_| |  __/
+|____/ \____|_| \_\_____|  \_/\_/  |_____|____/ \___/|_|
 ```
 
 ```bash
-dj_nocide@github:~$ whoami
-DJ_Nocide — web dev turned aspiring security guy
+screwedup@github:~$ whoami
+SCREWEDUP — web dev turned aspiring security guy
 
-dj_nocide@github:~$ cat /etc/motd
+screwedup@github:~$ cat /etc/motd
 Pentesting = getting paid to do the crimes I used to do for free.
 Code comments: 0 (working on it). Existential dread: ∞.
 
-dj_nocide@github:~$ uname -a
-Linux nocide 6.x #1 SMP — Kali (VM) / Ubuntu / Omarchy / Windows (still rice-able)
+screwedup@github:~$ uname -a
+Linux screwedup 6.x #1 SMP — Kali (VM) / Ubuntu / Omarchy / Windows (still rice-able)
 ```
 
 ---
@@ -30,7 +29,7 @@ Linux nocide 6.x #1 SMP — Kali (VM) / Ubuntu / Omarchy / Windows (still rice-a
 ## `~/neofetch`
 
 ```text
-        .-.            dj_nocide@github
+        .-.            screwedup@github
        (o o)           ------------------
        | O \           OS:       Kali · Ubuntu · Omarchy
         \   \          Shell:    bash
@@ -46,7 +45,7 @@ Linux nocide 6.x #1 SMP — Kali (VM) / Ubuntu / Omarchy / Windows (still rice-a
 ## `~/skills.txt`
 
 ```bash
-dj_nocide@github:~$ cat skills.txt
+screwedup@github:~$ cat skills.txt
 ```
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=flat-square&logo=kalilinux&logoColor=00FF41)
@@ -70,7 +69,7 @@ dj_nocide@github:~$ cat skills.txt
 ## `~/projects`
 
 ```bash
-dj_nocide@github:~$ ls -la projects/
+screwedup@github:~$ ls -la projects/
 drwxr-xr-x  subnetCalc/         # Python CLI subnet calculator (IPv4/IPv6), open-source
 drwxr-xr-x  file-converter/     # Local file converter (webp -> png & more), extensible, open-source
 drwxr-xr-x  homelab/            # pfSense on a dying laptop, Kali on VMware, Parrot HTB bare metal
@@ -82,17 +81,17 @@ drwxr-xr-x  text-adventure/     # Terminal "choose your own adventure" game in P
 > 🔗 Repo: [**screwedupclick/subnetCalc**](https://github.com/screwedupclick/subnetCalc)
 
 ```bash
-dj_nocide@github:~$ cat projects/subnetCalc/README
+screwedup@github:~$ cat projects/subnetCalc/README
 [+] Subnet masks, network/broadcast addresses, host ranges
 [+] Because doing /24 math by hand is a war crime
 [+] PRs and ideas welcome
 
-dj_nocide@github:~$ cat projects/audit-fantome/README
+screwedup@github:~$ cat projects/audit-fantome/README
 [+] Solo narrative CTF set in a fictional shell company: NOCIDE CORP
 [+] Flipper Zero (RFID/NFC, Sub-GHz, BadUSB) + digital forensics (Volatility, Autopsy)
 [+] Because a normal CTF wasn't hard enough
 
-dj_nocide@github:~$ cat projects/homelab/README
+screwedup@github:~$ cat projects/homelab/README
 [+] pfSense firewall on a retired laptop (e-waste -> router)
 [+] Kali on VMware, Parrot OS HTB Edition on bare metal
 [+] Budget-friendly: managed switch, monitor-mode WiFi adapter, mini PC on the wishlist
@@ -103,7 +102,7 @@ dj_nocide@github:~$ cat projects/homelab/README
 ## `~/learning.log`
 
 ```bash
-dj_nocide@github:~$ tail -n 10 learning.log
+screwedup@github:~$ tail -n 10 learning.log
 [2026-09] HTB Academy   : Linux fundamentals ............ [IN PROGRESS]
 [2026-09] HTB Academy   : Networking (subnetting, DHCP, NAT, DNS) ... [IN PROGRESS]
 [2026-09] TryHackMe     : guided paths ................... [IN PROGRESS]
@@ -136,7 +135,7 @@ done
 ## `~/contact`
 
 ```bash
-dj_nocide@github:~$ ./contact.sh --list
+screwedup@github:~$ ./contact.sh --list
 ```
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-under_construction-0D1117?style=flat-square&logo=About.me&logoColor=00FF41)](#)
@@ -159,10 +158,10 @@ dj_nocide@github:~$ ./contact.sh --list
 ---
 
 ```bash
-dj_nocide@github:~$ echo "Thanks for stopping by."
+screwedup@github:~$ echo "Thanks for stopping by."
 Thanks for stopping by.
 
-dj_nocide@github:~$ _
+screwedup@github:~$ _
 ```
 
 <div align="center">

@@ -1,45 +1,104 @@
-<h1 align="center">DJ_Nocide</h1>
+<div align="center">
 
-<p align="center">
-  Développeur web en reconversion vers la <strong>cybersécurité</strong>.<br>
-  J'apprends en construisant mes propres outils.
-</p>
+<img src="assets/banner.svg" alt="DJ_Nocide - cybersecurity, digital forensics, tool builder" width="100%">
 
-<p align="center">
-  <img alt="Langage : Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img alt="Langage : Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white">
-  <img alt="Langage : Rust" src="https://img.shields.io/badge/Rust-B7410E?style=flat&logo=rust&logoColor=white">
-  <img alt="Web : HTML, CSS, JavaScript" src="https://img.shields.io/badge/Web-HTML%20%7C%20CSS%20%7C%20JS-555555?style=flat&logo=html5&logoColor=white">
-</p>
+<br>
 
----
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+<img alt="Rust" src="https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white">
 
-## À propos
+<img alt="Focus: cybersecurity" src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00ff9c?style=flat-square&labelColor=0a0e14">
+<img alt="Status: learning in public" src="https://img.shields.io/badge/STATUS-LEARNING%20IN%20PUBLIC-19d3ff?style=flat-square&labelColor=0a0e14">
+<img alt="Mode: building" src="https://img.shields.io/badge/MODE-BUILDING-ff2e88?style=flat-square&labelColor=0a0e14">
 
-- Reconversion en cours vers la cybersécurité, en m'appuyant sur mes bases en développement web.
-- Je monte un homelab pour pratiquer la sécurité en conditions réelles.
-- Je préfère les petits outils simples, utiles et bien documentés.
+</div>
 
-## Ce que j'apprends en ce moment
+<br>
 
-- **Réseau** : scan d'appareils et de ports, sous-réseaux
-- **Forensique** : récupération de fichiers, analyse par magic bytes
-- **Chiffrement** : stockage local sécurisé
-- **Langages** : Go et Rust, en plus de Python
+## `> whoami`
 
-## Projets
+<div align="center">
+<img src="assets/terminal.svg" alt="Terminal animation: whoami returns dj_nocide. Focus: web dev to cybersecurity, forensics, networking. Tools: ghostz, sigz, portz, vaultz." width="100%">
+</div>
 
-| Projet | Description | Langage |
-| --- | --- | --- |
-| [GhostZ](https://github.com/USERNAME/ghostz) | Retrouve des fichiers supprimés | Go |
-| [SigZ](https://github.com/USERNAME/sigz) | Identifie le vrai type d'un fichier (magic bytes) | Rust |
-| [PortZ](https://github.com/USERNAME/portz) | Scanner de ports pour sécuriser un réseau domestique | Python |
+<br>
 
-## Me contacter
+## `> about`
 
-- GitHub : [@USERNAME](https://github.com/USERNAME)
-- Portfolio : [votre-portfolio.example](https://votre-portfolio.example)
+I'm a **web developer turned cybersecurity learner**. I learn by building: every concept I study becomes a small tool I can run, break and improve.
 
----
+- 🎯 **Goal**: a career in cybersecurity, built on top of my web development background
+- 🔬 **Interests**: digital forensics, network security, applied cryptography
+- 🧪 **Method**: build a tool, document it, learn from the mistakes, repeat
+- 🏠 **Playground**: a budget-friendly homelab for hands-on practice
+- 🌱 **Currently learning**: Rust, Go, and low-level file analysis
 
-<sub>Ce profil est conçu pour rester lisible en thème clair comme en thème sombre, avec des textes alternatifs sur toutes les images.</sub>
+<br>
+
+## `> arsenal`
+
+| Domain | Tools & languages |
+| :-- | :-- |
+| **Languages** | Python, Go, Rust, JavaScript, HTML/CSS |
+| **Networking** | Host discovery, port scanning, IPv4/IPv6 subnetting |
+| **Forensics** | Deleted file recovery, magic bytes, file signature analysis |
+| **Cryptography** | Local encrypted storage, password vault design |
+| **Environment** | Windows (heavily customized), Linux, homelab |
+
+<br>
+
+## `> missions`
+
+| Project | What it does | Stack |
+| :-- | :-- | :-- |
+| 👻 [**GhostZ**](https://github.com/USERNAME/ghostz) | Digital forensics tool that recovers deleted files from an SSD | `Go` |
+| 🔍 [**SigZ**](https://github.com/USERNAME/sigz) | Identifies the real type of a file using magic bytes, ignoring its extension | `Rust` |
+| 📡 [**PortZ**](https://github.com/USERNAME/portz) | Port scanner to audit and secure a home network | `Python` |
+| 🌐 [**NetScan**](https://github.com/USERNAME/netscan) | Lists every device connected to the local network | `Python` |
+| 🔐 [**VaultZ**](https://github.com/USERNAME/vaultz) | Local encrypted vault and password manager for the terminal | `Python` |
+| 🧮 [**Subnet Calculator**](https://github.com/USERNAME/subnet-calculator) | Open-source IPv4/IPv6 subnet calculator CLI | `Python` |
+
+<br>
+
+## `> roadmap`
+
+- [x] Ship a first forensics tool (GhostZ)
+- [x] Learn a second systems language (Rust, through SigZ)
+- [x] Build a network scanning toolkit
+- [ ] Publish a series of CTF write-ups
+- [ ] Earn an entry-level security certification
+- [ ] Land a first role in cybersecurity
+
+<br>
+
+## `> stats`
+
+<div align="center">
+
+<img alt="GitHub stats for USERNAME" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=19d3ff&text_color=e6edf3" width="48%">
+<img alt="Most used languages of USERNAME" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=e6edf3" width="48%">
+
+</div>
+
+<br>
+
+## `> contact`
+
+- 💻 GitHub: [@USERNAME](https://github.com/USERNAME)
+- 🌍 Portfolio: [your-portfolio.example](https://your-portfolio.example)
+- ✉️ Email: your.email@example.com
+
+<br>
+
+<div align="center">
+
+```bash
+echo "Stay curious. Stay ethical."
+```
+
+<sub>All tools in my repositories are built for education and for use on systems I own or am explicitly authorized to test.</sub>
+
+</div>

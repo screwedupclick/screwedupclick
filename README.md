@@ -1,44 +1,45 @@
-### `~ $ whoami`
+<h1 align="center">DJ_Nocide</h1>
 
-```text
-duanra / — your password is probably “123456” and i’m judging you dev turned hacker, same bugs, more crime-adjacent pay me in pizza
-location    city of the living dead
-```
+<p align="center">
+  Développeur web en reconversion vers la <strong>cybersécurité</strong>.<br>
+  J'apprends en construisant mes propres outils.
+</p>
 
-### `~ $ ls projects --sort=stars`
+<p align="center">
+  <img alt="Langage : Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img alt="Langage : Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white">
+  <img alt="Langage : Rust" src="https://img.shields.io/badge/Rust-B7410E?style=flat&logo=rust&logoColor=white">
+  <img alt="Web : HTML, CSS, JavaScript" src="https://img.shields.io/badge/Web-HTML%20%7C%20CSS%20%7C%20JS-555555?style=flat&logo=html5&logoColor=white">
+</p>
 
-<table>
-<thead><tr><th align="left">Project</th><th align="left">About</th><th align="right">★</th></tr></thead>
-<tbody>
-<tr><td align="left"><a href="https://github.com/screwedupclick/ScriptFlipperZero">ScriptFlipperZero</a></td><td align="left">—</td><td align="right">2</td></tr>
-<tr><td align="left"><a href="https://github.com/screwedupclick/subnetCalc">subnetCalc</a></td><td align="left">—</td><td align="right">0</td></tr>
-<tr><td align="left"><a href="https://github.com/screwedupclick/freeprogrammingbooks">freeprogrammingbooks</a></td><td align="left">—</td><td align="right">0</td></tr>
-<tr><td align="left"><a href="https://github.com/screwedupclick/vuejs">vuejs</a></td><td align="left">—</td><td align="right">0</td></tr>
-<tr><td align="left"><a href="https://github.com/screwedupclick/paintCalculator">paintCalculator</a></td><td align="left">—</td><td align="right">0</td></tr>
-</tbody>
-</table>
+---
 
-### `~ $ cat stack.txt`
+## À propos
 
-```text
-javascript  ████████████████████  37%
-python      ███████████████       28%
-css         ██████████            19%
-vue         ████████              15%
-html        █                      1%
-```
+- Reconversion en cours vers la cybersécurité, en m'appuyant sur mes bases en développement web.
+- Je monte un homelab pour pratiquer la sécurité en conditions réelles.
+- Je préfère les petits outils simples, utiles et bien documentés.
 
-### `~ $ stats`
+## Ce que j'apprends en ce moment
 
-```text
-repositories   11
-stars          2
-followers      9
-contributions  102 (last 12 months)
-```
+- **Réseau** : scan d'appareils et de ports, sous-réseaux
+- **Forensique** : récupération de fichiers, analyse par magic bytes
+- **Chiffrement** : stockage local sécurisé
+- **Langages** : Go et Rust, en plus de Python
 
-### `~ $ contact`
+## Projets
 
-<a href="https://github.com/screwedupclick">GitHub</a>
+| Projet | Description | Langage |
+| --- | --- | --- |
+| [GhostZ](https://github.com/USERNAME/ghostz) | Retrouve des fichiers supprimés | Go |
+| [SigZ](https://github.com/USERNAME/sigz) | Identifie le vrai type d'un fichier (magic bytes) | Rust |
+| [PortZ](https://github.com/USERNAME/portz) | Scanner de ports pour sécuriser un réseau domestique | Python |
 
-<sub>Plain Terminal · every line is real data · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
+## Me contacter
+
+- GitHub : [@USERNAME](https://github.com/USERNAME)
+- Portfolio : [votre-portfolio.example](https://votre-portfolio.example)
+
+---
+
+<sub>Ce profil est conçu pour rester lisible en thème clair comme en thème sombre, avec des textes alternatifs sur toutes les images.</sub>

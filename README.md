@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="DJ_Nocide - cybersecurity, digital forensics, tool builder" width="100%">
+<img src="assets/banner.svg" alt="SCREWEDUPCLICK - cybersecurity, digital forensics, tool builder" width="100%">
 
 <br>
 
@@ -21,7 +21,7 @@
 ## `> whoami`
 
 <div align="center">
-<img src="assets/terminal.svg" alt="Terminal animation: whoami returns dj_nocide. Focus: web dev to cybersecurity, forensics, networking. Tools: ghostz, sigz, portz, vaultz." width="100%">
+<img src="assets/terminal.svg" alt="Terminal animation: whoami returns screwedupclick. Focus: web dev to cybersecurity, forensics, networking. Tools: ghostz, sigz, portz, vaultz." width="100%">
 </div>
 
 <br>
